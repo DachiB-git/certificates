@@ -1,2 +1,2 @@
 # certificates
-Certificates from courses I have earned
+Certificates from various courses I have completed
